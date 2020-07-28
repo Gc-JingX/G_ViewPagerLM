@@ -1,0 +1,3 @@
+include ':viewpagerlayoutmanager'
+include ':app'
+rootProject.name = "G_ViewPagerLM"
